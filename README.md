@@ -21,7 +21,11 @@ alphanumeric, 5-32 characters
 FCM credentials  Update  
 Available MTProto servers
 Test configuration:
+
+```
 149.154.167.40:443
+```
+
 DC 2
 
 Public keys:
@@ -38,7 +42,11 @@ j4WcDuXc2CTHgH8gFTNhp/Y8/SpDOhvn9QIDAQAB
 
 -----END RSA PUBLIC KEY-----
 Production configuration:
+
+```
 149.154.167.50:443
+```
+
 DC 2
 
 Public keys:
